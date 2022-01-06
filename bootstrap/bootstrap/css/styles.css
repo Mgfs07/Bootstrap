@@ -1,0 +1,47 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+.navbar {
+    background-color: black;
+    color: pink;
+}
+
+.quem-somos{
+    background-color: white;
+    color: black;
+}
+
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.irmaosdeestrada{
+    background-color: black;
+    color: black;
+}
+
+.letrapequenas{
+    padding-top: 10px;
+    font: 15px Arial, sans-serif;
+}
+
+.bg-floter{
+    background-color: black;
+    color: white;
+}
+
+.fvc{
+    background-color: black;
+}
+
+.imagemRedonda{
+    border-radius: 80%;
+    width: 300px;
+    height: 300px;
+}
+
+.viagens{
+    background-color: #FFFFF0;
+}
